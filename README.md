@@ -3,17 +3,17 @@
 
 <p align="center">
   <a href="https://github.com/RISHAV-ANAND7">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RISHAV-ANAND7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RISHAV-ANAND7&label=Profile%20Views&color=bd93f9&style=flat" alt="profile views" />
   <a href="https://github.com/RISHAV-ANAND7?tab=followers">
-    <img src="https://img.shields.io/github/followers/RISHAV-ANAND7?label=Followers&style=flat&color=0e75b6" alt="followers" />
+    <img src="https://img.shields.io/github/followers/RISHAV-ANAND7?label=Followers&style=flat&color=bd93f9" alt="followers" />
   </a>
   <a href="https://github.com/RISHAV-ANAND7">
-    <img src="https://img.shields.io/github/stars/RISHAV-ANAND7?label=Stars&style=flat&color=0e75b6" alt="stars" />
+    <img src="https://img.shields.io/github/stars/RISHAV-ANAND7?label=Stars&style=flat&color=bd93f9" alt="stars" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Database**
 
@@ -61,6 +61,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -71,14 +72,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 Real-Time Position Tracker</h3>
-      <p>A real-time location tracking web application that shares live user positions on an interactive map using WebSockets for low-latency communication.</p>
+      <h3>🛡️ Distributed Rate Limiter Gateway</h3>
+      <p>A high-performance, production-grade API gateway implementing distributed rate limiting using Redis. Designed to protect backend services from abuse and ensure fair traffic distribution across multiple nodes.</p>
       <p>
-        <b>Tech:</b> Node.js • Express.js • Socket.IO • Leaflet • JavaScript
+        <b>Tech:</b> Node.js • Express.js • Redis • Docker
       </p>
       <p>
-        <a href="https://github.com/RISHAV-ANAND7/Real-Time-Positon-Tracker">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://github.com/RISHAV-ANAND7/Distributed-Rate-Limiter-Gateway">
+          <img src="https://img.shields.io/badge/View%20Repository-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" />
         </a>
       </p>
     </td>
@@ -90,7 +91,7 @@
       </p>
       <p>
         <a href="https://github.com/RISHAV-ANAND7/APiXY">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20Repository-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" />
         </a>
       </p>
     </td>
@@ -104,16 +105,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RISHAV-ANAND7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHAV-ANAND7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RISHAV-ANAND7&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHAV-ANAND7&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RISHAV-ANAND7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RISHAV-ANAND7&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RISHAV-ANAND7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RISHAV-ANAND7&theme=dracula&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -121,7 +122,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -139,24 +140,24 @@
 
 <p align="center">
   <a href="https://github.com/RISHAV-ANAND7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555" />
   </a>
   <a href="https://leetcode.com/your-username/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-282A36?style=for-the-badge&logo=leetcode&logoColor=FFB86C" />
   </a>
   <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-282A36?style=for-the-badge&logo=twitter&logoColor=8BE9FD" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ “Always building, learning, and improving — one commit at a time.”</i>
+  <i>⭐ "Always building, learning, and improving — one commit at a time."</i>
 </p>
