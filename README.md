@@ -26,7 +26,7 @@
 - 📚 Currently mastering **Data Structures, Algorithms & System Design**
 - 🧠 Passionate about writing **clean, efficient, and maintainable code**
 - 🎯 **Goal:** Land a Software Engineering role at a leading product-based company
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: Rishavanand773@gmail.com
 
 ---
 
